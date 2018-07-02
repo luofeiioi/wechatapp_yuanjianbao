@@ -1,0 +1,34 @@
+<!--pages/tuijian/tuijian.wxml-->
+<view id="main">
+    <view class="title">
+       日常学一点：电脑硬件基本常识
+    </view>
+    <view class="numbers">
+       <text>热门</text>
+       <text>原创</text>
+    </view>
+    <view class="content">
+          <text>
+          电脑硬件，包括电脑中所有物理的零件，以此来区分它所包括或执行的数据和为硬件提供指令以完成任务的软件；主要包含：机箱，主板，总线，电源，硬盘，存储控制器，界面卡，可携储存装置，内置存储器，输入设备，输出设备, CPU风扇，蜂鸣器等。
+          <br/>
+          </text>
+          <image src="https://i.loli.net/2018/05/31/5b0fa6a5dc11d.jpg" style="width:100%;"></image>
+          <text>
+          <br/>
+          主板上承载着CPU（即中央处理器）、内存（随机存取存储器）和为扩展卡提供的插槽 （可是CPU和内存并不是集成在主板上，不是主板的附件，本身也属于电脑硬件） 主板，又叫主机板(mainboard)、系统板(systemboard)或母板(motherboard)；它安装在机箱内，是微机最基本的也是最重要的部件之一。主板一般为4-6层矩形电路板，上面安装了组成计算机的主要电路系统，一般有南北桥芯片（有的南北桥整合在一起）BIOS芯片、I/O控制芯片、键盘和面板控制开关接口、指示灯插接件、扩充插槽、主板及插卡的直流电源供电接插件等元件。
+          <br/>
+          电源是为电脑提供动力的源头，它有：主板接口：20+4pin， CPU接口（4+4pin）：1个，显卡接口（6+2Pin）：2个，硬盘接口（SATA）：4个，供电接口（大4pin）：3个，分别为电脑中相应的硬件供电
+          <br/>
+          内存是计算机中重要的部件之一，它是与CPU进行沟通的桥梁。计算机中所有程序的运行都是在内存中进行的，因此内存的性能对计算机的影响非常大。内存(Memory)也被称为内存储器，其作用是用于暂时存放CPU中的运算数据，以及与硬盘等外部存储器交换的数据。只要计算机在运行中，CPU就会把需要运算的数据调到内存中进行运算，当运算完成后CPU再将结果传送出来，内存的运行也决定了计算机的稳定运行。 内存是由内存芯片、电路板、金手指等部分组成的。
+          </text>
+    </view>
+    <view class="comments_list">
+        
+    </view>
+</view>
+<view id="comments">
+    <view class="input">
+          <input class="text" type="text" placeholder="西安触摸科技信息有限公司"/>
+          <!--<button type="default" class="submit">点赞</button>-->
+    </view>
+</view>

@@ -1,0 +1,11 @@
+<!--pages/first/first1/first1.wxml-->
+<view>
+<view class="skin-list">
+    <block wx:for="{{x_menus}}">
+        <view class="skin-item {{skin-item-active.after}}">
+            <image src="{{item.ur}}" class="skin-img"></image>
+            <view class="skin-title">{{item.title}}</view>
+        </view>
+    </block>
+</view>
+</view>

@@ -1,0 +1,4 @@
+<!--pages/ss/ss.wxml-->
+<view class="search-bar">
+    <input class="search-txt" placeholder-class="search-txt-plc" bindfocus="viewSearch" placeholder="请输入关键词搜索" type="text"/>
+</view>

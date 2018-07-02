@@ -1,0 +1,35 @@
+<!--pages/zixun/zixun.wxml-->
+<view class="news_content" id="1" catchtap="detail">
+    <view class="news_content_left">
+      <view class="news_content_left_top">
+          <view class="text_top">日常学一点：电脑硬件基本常识</view>
+      </view>
+      <view class="news_content_left_but">
+          <image src="/images/pic.jpg" class="pic"></image>
+          <text>知识</text>
+          <text style="margin-left:10px;">热门</text>
+          <text style="margin-left:10px;">原创</text>
+      </view>
+    </view>
+    <view class="news_content_right">
+        <image src="https://i.loli.net/2018/05/31/5b0fa6a5dc11d.jpg"></image>
+    </view>
+</view>
+
+<view class="news_content" id="2" catchtap="detaill">
+    <view class="news_content_right news_content-left">
+        <image src="https://i.loli.net/2018/05/31/5b0fa7254267e.jpg"></image>
+    </view>
+    <view class="news_content_left news_content-right">
+      <view class="news_content_left_top">
+          <view class="text_top">元器件博览会：科技引领世界</view>
+      </view>
+      <view class="news_content_left_but">
+          <image src="/images/pic.jpg" class="pic"></image>
+          <text>元件</text>
+          <text style="margin-left:10px;">热门</text>
+          <text style="margin-left:10px;">原创</text>
+      </view>
+    </view>
+    
+</view>

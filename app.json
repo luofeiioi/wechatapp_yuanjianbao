@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/more/more",
+    "pages/we/we",
+    "pages/tuijian/tuijian",
+    "pages/tuijian2/tuijian2",
+    "pages/first/first1/first1",
+    "pages/first/first2/first2",
+    "pages/first/first3/first3",
+    "pages/first/first4/first4",
+    "pages/zixun/zixun",
+    "pages/ss/ss"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "元件宝",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "image/shouyan1.png",
+        "selectedIconPath": "image/shouyan2.png"
+      },
+      {
+        "pagePath": "pages/zixun/zixun",
+        "text": "资讯",
+        "iconPath": "image/zixun2.png",
+        "selectedIconPath": "image/zixun1.png"
+      },
+      {
+        "pagePath": "pages/more/more",
+        "text": "联系",
+        "iconPath": "image/lianxi1.png",
+        "selectedIconPath": "image/lianxi2.png"
+      }
+    ]
+  }
+}

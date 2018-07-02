@@ -1,0 +1,34 @@
+<!--pages/tuijian2/tuijian2.wxml-->
+<view id="main">
+    <view class="title">
+       元器件博览会：科技引领世界
+    </view>
+    <view class="numbers">
+       <text>热门</text>
+       <text>原创</text>
+    </view>
+    <view class="content">
+          <text>
+          电子元器件是电子元件和电小型的机器、仪器的组成部分，其本身常由若干零件构成，可以在同类产品中通用；常指电器、无线电、仪表等工业的某些零件，如电容、晶体管、游丝、发条等子器件的总称。常见的有二极管等。
+          <br/>
+          </text>
+          <image src="https://i.loli.net/2018/05/31/5b0fa7254267e.jpg" style="width:100%;"></image>
+          <text>
+          <br/>
+          电子元器件包括：电阻、电容器、电位器、电子管、散热器、机电元件、连接器、半导体分立器件、电声器件、激光器件、电子显示器件、光电器件、传感器、电源、开关、微特电机、电子变压器、继电器、印制电路板、集成电路、各类电路、压电、晶体、石英、陶瓷磁性材料、印刷电路用基材基板、电子功能工艺专用材料、电子胶（带）制品、电子化学材料及部品等。
+          <br/>
+          电子元器件在质量方面国际上有欧盟的CE认证，美国的UL认证，德国的VDE和TUV以及中国的CQC认证等国内外认证，来保证元器件的合格。
+          <br/>
+          电子元器件发展史其实就是一部浓缩的电子发展史。电子技术是十九世纪末、二十世纪初开始发展起来的新兴技术，二十世纪发展最迅速，应用最广泛，成为近代科学技术发展的一个重要标志。
+          </text>
+    </view>
+    <view class="comments_list">
+        
+    </view>
+</view>
+<view id="comments">
+    <view class="input">
+          <input class="text" type="text" placeholder="西安触摸科技信息有限公司"/>
+          <!--<button type="default" class="submit">点赞</button>-->
+    </view>
+</view>

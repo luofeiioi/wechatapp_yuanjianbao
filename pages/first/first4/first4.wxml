@@ -1,0 +1,9 @@
+<!--pages/first/first4/first4.wxml-->
+<view class="index">
+    <view class="head">
+        <view class="title">合作伙伴</view>
+        <view class="desc">西安海清智能科技有限公司</view>
+        <image src="https://i.loli.net/2018/05/31/5b0f95e583f1b.png"></image>
+    </view>
+</view>
+

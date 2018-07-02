@@ -1,0 +1,29 @@
+/* pages/ss/ss.wxss */
+.search-bar {
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    width: 100%;
+    height: 80rpx;
+    padding: 10rpx;
+    background-color: #eee;
+    text-align: center;
+    box-shadow: 0 10rpx 60rpx rgba(0, 0, 0, .3);
+}
+
+.search-txt {
+    display: inline-block;
+    width: 730rpx;
+    height: 60rpx;
+    background-color: #fff;
+    background-position: 20rpx center;
+    background-repeat: no-repeat;
+    background-size: 50rpx;
+    border-radius: 8rpx;
+}
+
+.search-txt-plc {
+    color: #bfbfbf;
+}
